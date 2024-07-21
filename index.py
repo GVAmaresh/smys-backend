@@ -10,11 +10,8 @@ from typing import Dict
 from pydantic import BaseModel
 from googleapiclient.discovery import build
 
-from api.components.ImageList import list_files_in_folder
-from api.components.drive_db import authenticate_with_env_vars
-
-# from components.ImageList import list_files_in_folder
-# from components.drive_db import authenticate_with_env_vars
+from components.ImageList import list_files_in_folder
+from components.drive_db import authenticate_with_env_vars
 
 app = FastAPI()
 app.add_middleware(

@@ -8,7 +8,7 @@ from google.oauth2 import service_account
 
 SCOPES = ['https://www.googleapis.com/auth/drive']
 
-dotenv_path = '../.env'
+dotenv_path = '.env'
 load_dotenv(dotenv_path)
 
 details = {
