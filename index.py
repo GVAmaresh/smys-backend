@@ -82,4 +82,5 @@ def getImf():
 if __name__ == "__main__":
     creds = authenticate_with_env_vars(details)
     service = build('drive', 'v3', credentials=creds)
-    uvicorn.run(app, host="127.0.0.1", port=5000)
+    port = int(os.environ.get("PORT", 8000)) 
+    uvicorn.run(app, host="0.0.0.0", port=port)
