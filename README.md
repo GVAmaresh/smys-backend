@@ -1,7 +1,7 @@
 
 # SMYS
 
-SMYS is a organisation name **Sri Madhwa Yuvaka Sangha** which is located in the South Bengaluru, Karnataka which provides the hostel facility to all Brahmin who are pursuing degree.
+**Sri Madhwa Yuvaka Sangha** (SMYS) is an organization located in South Bengaluru, Karnataka. It provides hostel facilities for all Brahmins pursuing a degree. The organization conducts various festivals and ensures security through the installation of CCTV cameras. Additionally, there is a management team to oversee operations. The hostel offers three meals a day, along with clean rooms and common washroom facilities.
 
 **TechStack** 
 
