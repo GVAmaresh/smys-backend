@@ -28,10 +28,8 @@ Each part is managed in a separate repository for better organization and mainte
 4. [Getting Started](#getting-started)
     1. [Prerequisites](#prerequisites)
     2. [Using CMD (Command Line)](#using-cmd-command-line)
-    3. [Using Docker](#using-docker)
 5. [Meet the Team](#meet-the-team)
-6. [Benefits](#benefits)
-7. [License](#license)
+6. [License](#license)
 
 ## Demo
 Watch Video Here
